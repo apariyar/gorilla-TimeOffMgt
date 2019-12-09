@@ -1,0 +1,3 @@
+Admin Login credentials
+ email:admin.user@everesttech.com
+ password:123456  
