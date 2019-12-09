@@ -36,7 +36,8 @@ run the following commands
 * node –-version //verify node is installed 
 * npm --version  // verify npm is installed
     Install Node.js developement tools and libraries
-* sudo yum install -y gcc-g++ make 
+* sudo yum install -y gcc-g++ make  or sudo yum group install "Development Tools"
+
 
 
 ## Installing TimeOff Management application 
