@@ -33,8 +33,8 @@ run the following commands
 * $sudo yum update 
 * curl –sL https://rpm.nodesource.com/setup_10.x | sudo bash -
 * sudo yum install –y nodejs  
-* node –version //verify node is installed 
-* node -version  // verify npm is installed
+* node –-version //verify node is installed 
+* npm --version  // verify npm is installed
     Install Node.js developement tools and libraries
 * sudo yum install -y gcc-g++ make 
 
