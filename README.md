@@ -67,7 +67,7 @@ On the SSH terminal, run the command
   For my instance, copy and paste the link on your browser.
   http://3.15.213.82:3000/
   
-  #Test Employee Login:
+  # Test Employee Login:
    email: test.employee@everesttech.com
    password: password
 
