@@ -61,7 +61,7 @@ On the SSH terminal, run the command
 ## Run the application on your web browser
  * Copy the IPv4 Public IP of your EC2 instance
  * on your broswer, type
-    http://<ec2-ipv2-public-ip>:3000/
+    http://ec2-ipv2-public-ip:3000/
 
 Now you can login and make changes to your calendar. Request leave or make any changes necessary. 
 
