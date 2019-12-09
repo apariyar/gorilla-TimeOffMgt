@@ -69,6 +69,7 @@ On the SSH terminal, run the command
   
   # Test Employee Login:
    email: test.employee@everesttech.com
+   
    password: password
 
 Now you can login and make changes to your calendar. Request leave or make any changes necessary. 
