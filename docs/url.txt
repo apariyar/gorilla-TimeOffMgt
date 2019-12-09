@@ -1,0 +1,7 @@
+
+copy and paste it on your web browser. 
+
+http://3.17.26.31:5000/
+
+admin email: admin.user@everesttech.com
+password: 123456
