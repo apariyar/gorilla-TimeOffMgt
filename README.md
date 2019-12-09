@@ -44,7 +44,7 @@ run the following commands
 * sudo yum install git
 * git clone https://github.com/timeoff-management/application.git timeoff-management
 * cd timeoff-management
-* npm install
+* sudo npm install -g pm2
 
 Note: Before you run the command below, ensure port TCP port 3000 allowed on security group corresponding the ec2 instance is allowed on 
 
@@ -56,13 +56,20 @@ Note: ensure SSH inbound rule is unchanged.
 
 On the SSH terminal, run the command
 
-* npm start
+* pm2 start bin/wwww
 
 
 ## Run the application on your web browser
  * Copy the IPv4 Public IP of your EC2 instance
  * on your broswer, type
     http://ec2-ipv2-public-ip:3000/
+    
+  For my instance, copy and paste the link on your browser.
+  http://3.15.213.82:3000/
+  
+  #Test Employee Login:
+   email: test.employee@everesttech.com
+   password: password
 
 Now you can login and make changes to your calendar. Request leave or make any changes necessary. 
 
